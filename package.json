@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-js",
+  "version": "1.0.0",
+  "description": "CalculadoraJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisPavon010/CalculadoraJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisPavon010/CalculadoraJs/issues"
+  },
+  "homepage": "https://alexispavon010.github.io/CalculadoraJs/"
+}
